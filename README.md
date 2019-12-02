@@ -15,11 +15,6 @@
 
  - redux-localstorage-simple - v 2.1.6
 
-### Вы можете посмотреть развёрнутое приложение:
- 
-```sh
-https://glebkasyak.github.io/Todo-RR
-```
 
 ### Установка приложения
 
